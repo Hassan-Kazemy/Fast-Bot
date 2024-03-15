@@ -6,10 +6,6 @@ Fast Bot is a PHP library for make telegram bot.
 
 Download and use Fast Bot.
 
-```bash
-pip install foobar
-```
-
 ## Usage
 
 ```php
