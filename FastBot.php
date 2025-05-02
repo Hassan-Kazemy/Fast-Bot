@@ -1,6 +1,6 @@
 <?php
 
-class TelegramBotHelper{
+class FastBot{
 
     //message fields
     public $message;
